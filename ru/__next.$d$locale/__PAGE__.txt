@@ -1,0 +1,11 @@
+1:"$Sreact.fragment"
+2:I[27051,["/artem-schevchenko-cv/_next/static/chunks/16wqtfwne14bq.js","/artem-schevchenko-cv/_next/static/chunks/12_l_-r96cqnh.js"],"Navbar"]
+3:I[29261,["/artem-schevchenko-cv/_next/static/chunks/16wqtfwne14bq.js","/artem-schevchenko-cv/_next/static/chunks/12_l_-r96cqnh.js"],"Hero"]
+4:I[45231,["/artem-schevchenko-cv/_next/static/chunks/16wqtfwne14bq.js","/artem-schevchenko-cv/_next/static/chunks/12_l_-r96cqnh.js"],"About"]
+5:I[28366,["/artem-schevchenko-cv/_next/static/chunks/16wqtfwne14bq.js","/artem-schevchenko-cv/_next/static/chunks/12_l_-r96cqnh.js"],"Experience"]
+6:I[22892,["/artem-schevchenko-cv/_next/static/chunks/16wqtfwne14bq.js","/artem-schevchenko-cv/_next/static/chunks/12_l_-r96cqnh.js"],"Stack"]
+7:I[29214,["/artem-schevchenko-cv/_next/static/chunks/16wqtfwne14bq.js","/artem-schevchenko-cv/_next/static/chunks/12_l_-r96cqnh.js"],"Contact"]
+8:I[49139,["/artem-schevchenko-cv/_next/static/chunks/0.bq92dy9ex5w.js"],"OutletBoundary"]
+9:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"style":{"background":"#060606","minHeight":"100vh","position":"relative"},"children":[["$","$L2",null,{}],["$","$L3",null,{}],["$","$L4",null,{}],["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}]]}],[["$","script","script-0",{"src":"/artem-schevchenko-cv/_next/static/chunks/12_l_-r96cqnh.js","async":true}]],["$","$L8",null,{"children":["$","$9",null,{"name":"Next.MetadataOutlet","children":"$@a"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"tDgOIDK7wBbSzDVEZRSRP"}
+a:null

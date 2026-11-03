@@ -170,6 +170,8 @@ body {
   border-radius: 4px;
   display: inline-flex;
   align-items: center;
+  justify-content: center;
+  line-height: 1;
   gap: 8px;
   text-decoration: none;
   cursor: pointer;
@@ -195,6 +197,8 @@ body {
   border-radius: 4px;
   display: inline-flex;
   align-items: center;
+  justify-content: center;
+  line-height: 1;
   gap: 8px;
   text-decoration: none;
   cursor: pointer;
@@ -211,8 +215,9 @@ body {
 .hero-badge {
   display: inline-flex;
   align-items: center;
+  justify-content: center;
   gap: 8px;
-  padding: 6px 14px;
+  padding: 8px 16px;
   background: rgba(255, 255, 255, 0.04);
   border: 1px solid rgba(255, 255, 255, 0.12);
   border-radius: 4px;
@@ -222,6 +227,12 @@ body {
   color: rgba(255, 255, 255, 0.75);
   text-transform: uppercase;
   margin-bottom: 28px;
+  line-height: 1;
+}
+.hero-badge span {
+  display: inline-flex;
+  align-items: center;
+  line-height: 1;
 }
 
 /* Stat Card */
@@ -275,19 +286,29 @@ body {
 .metric-pill {
   display: inline-flex;
   align-items: center;
+  justify-content: center;
   gap: 6px;
   font-family: var(--font-mono);
   font-size: 11px;
   letter-spacing: 0.04em;
   color: #ffffff;
-  padding: 4px 10px;
+  padding: 6px 12px;
   background: rgba(255, 255, 255, 0.06);
   border: 1px solid rgba(255, 255, 255, 0.12);
   border-radius: 4px;
+  line-height: 1;
+}
+.metric-pill span {
+  display: inline-flex;
+  align-items: center;
+  line-height: 1;
 }
 
 /* Tech tag */
 .tech-tag {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
   padding: 8px 14px;
   border: 1px solid var(--border-card);
   background: rgba(255, 255, 255, 0.02);
@@ -298,6 +319,7 @@ body {
   border-radius: 4px;
   transition: all 0.2s var(--ease-spring);
   cursor: default;
+  line-height: 1;
 }
 .tech-tag:hover {
   border-color: rgba(255, 255, 255, 0.55);

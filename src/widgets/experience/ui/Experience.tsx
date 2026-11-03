@@ -59,13 +59,16 @@ export function Experience() {
                   }}
                 >
                   <div>
-                    <div style={{ display: 'flex', alignItems: 'center', gap: 12, marginBottom: 6 }}>
+                    <div style={{ display: 'flex', alignItems: 'center', gap: 12, marginBottom: 8, flexWrap: 'wrap' }}>
                       <span
                         style={{
                           fontFamily: 'var(--font-mono, monospace)',
-                          fontSize: 10,
+                          fontSize: 11,
                           letterSpacing: '0.2em',
                           color: 'rgba(255, 255, 255, 0.4)',
+                          display: 'inline-flex',
+                          alignItems: 'center',
+                          lineHeight: 1,
                         }}
                       >
                         0{idx + 1} //
@@ -76,6 +79,10 @@ export function Experience() {
                           fontWeight: 800,
                           color: '#ffffff',
                           letterSpacing: '-0.03em',
+                          margin: 0,
+                          lineHeight: 1,
+                          display: 'inline-flex',
+                          alignItems: 'center',
                         }}
                       >
                         {proj.title}
@@ -85,8 +92,10 @@ export function Experience() {
                           style={{
                             display: 'inline-flex',
                             alignItems: 'center',
+                            justifyContent: 'center',
                             gap: 6,
-                            padding: '3px 8px',
+                            height: 24,
+                            padding: '0 10px',
                             background: 'rgba(34, 197, 94, 0.1)',
                             border: '1px solid rgba(34, 197, 94, 0.3)',
                             borderRadius: 4,
@@ -95,10 +104,13 @@ export function Experience() {
                             letterSpacing: '0.08em',
                             color: '#4ade80',
                             textTransform: 'uppercase',
+                            lineHeight: 1,
+                            boxSizing: 'border-box',
+                            verticalAlign: 'middle',
                           }}
                         >
-                          <span style={{ width: 5, height: 5, borderRadius: '50%', background: '#4ade80' }} />
-                          Current Role
+                          <span style={{ width: 5, height: 5, borderRadius: '50%', background: '#4ade80', flexShrink: 0 }} />
+                          <span style={{ display: 'inline-block', lineHeight: 1, position: 'relative', top: '0.5px' }}>Current Role</span>
                         </span>
                       )}
                     </div>

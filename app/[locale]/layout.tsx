@@ -28,7 +28,7 @@ export const metadata: Metadata = {
     title: 'Artem Schevchenko — Senior Full-Stack Engineer',
     description:
       'Senior Full-Stack Engineer with 6+ years commercial experience in high-load fintech, edtech, and web3 platforms.',
-    url: 'https://redefinedqq.github.io/',
+    url: 'https://redefinedqq.github.io/artem-schevchenko-cv/',
     siteName: 'Artem Schevchenko Portfolio',
     locale: 'en_US',
     type: 'website',

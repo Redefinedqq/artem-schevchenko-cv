@@ -12,4 +12,4 @@ export const SOCIALS: Social[] = [
   { label: 'phone',    href: 'tel:+380634663546',              display: '+380 63 466 35 46' },
 ];
 
-export const CV_DOWNLOAD_URL = '/Artem_Schevchenko_CV.pdf';
+export const CV_DOWNLOAD_URL = '/artem-schevchenko-cv/Artem_Schevchenko_CV.pdf';

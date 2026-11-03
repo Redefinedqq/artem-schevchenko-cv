@@ -51,7 +51,7 @@ export function Navbar() {
         <div style={{ display: 'flex', alignItems: 'center' }}>
           <a href="#" className="nav-logo">
             <span style={{ fontWeight: 800, fontSize: 13, letterSpacing: '0.18em' }}>
-              REDEFINED
+              ARTEM SCHEVCHENKO
             </span>
           </a>
         </div>

@@ -89,6 +89,8 @@ export function Hero() {
           style={{
             color: '#ffffff',
             display: 'block',
+            position: 'relative',
+            left: 1,
             ...fadeUp(140),
           }}
         >

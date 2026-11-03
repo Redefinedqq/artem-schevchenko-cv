@@ -128,18 +128,49 @@ export function Hero() {
           marginBottom: 64,
         }}
       >
-        <p
-          style={{
-            color: 'rgba(255, 255, 255, 0.68)',
-            fontSize: 'clamp(14px, 1.3vw, 16px)',
-            lineHeight: 1.85,
-            fontWeight: 300,
-            maxWidth: 580,
-            ...fadeUp(400),
-          }}
-        >
-          {hero.subtitle}
-        </p>
+        <div style={{ maxWidth: 580, ...fadeUp(400) }}>
+          <p
+            style={{
+              fontFamily: 'var(--font-mono, monospace)',
+              fontSize: 10,
+              letterSpacing: '0.2em',
+              color: 'rgba(255, 255, 255, 0.4)',
+              textTransform: 'uppercase',
+              marginBottom: 14,
+            }}
+          >
+            // {hero.stackTitle ?? 'Core Tech Stack'}
+          </p>
+          <div style={{ display: 'flex', flexWrap: 'wrap', gap: 8 }}>
+            {[
+              'React',
+              'Next.js',
+              'TypeScript',
+              'Node.js',
+              'NestJS',
+              'Fastify',
+              'PostgreSQL',
+              'Redis',
+              'Kafka',
+              'Docker',
+              'Stripe',
+              'Web3',
+            ].map((tech) => (
+              <span
+                key={tech}
+                className="tech-tag highlight"
+                style={{
+                  padding: '7px 13px',
+                  fontSize: 12,
+                  background: 'rgba(255, 255, 255, 0.03)',
+                  borderColor: 'rgba(255, 255, 255, 0.14)',
+                }}
+              >
+                {tech}
+              </span>
+            ))}
+          </div>
+        </div>
 
         <div
           style={{

@@ -1,0 +1,61 @@
+{
+  "nav": {
+    "about": "About",
+    "experience": "Experience",
+    "stack": "Stack",
+    "contact": "Contact",
+    "cvDownload": "Download CV"
+  },
+  "hero": {
+    "badge": "Senior Full-Stack Engineer • 6+ Years Experience",
+    "titleFirst": "Artem",
+    "titleLast": "Schevchenko",
+    "subtitle": "Engineering high-throughput web applications, distributed systems, and payment infrastructure. Specialized in modern TypeScript ecosystems (React, Next.js, Node.js/NestJS), database optimization, and high-conversion frontend architecture.",
+    "ctaContact": "Discuss Project / Hire",
+    "ctaCv": "Get CV (PDF)",
+    "statExp": "6+ Yrs Commercial Exp",
+    "statWeb3": "Fintech & Web3 Rails",
+    "statScale": "150+ Countries Scale",
+    "statSpeed": "Core Web Vitals Specialist"
+  },
+  "about": {
+    "title": "Profile & Impact",
+    "lead": "Senior Full-Stack Engineer with 6+ years of commercial production experience.",
+    "text": "Proven track record in designing resilient fintech integrations (Stripe, TON, Revolut), reducing infrastructure overhead, and driving Core Web Vitals performance. Strong command of clean architecture, domain-driven design, and automated CI/CD pipelines.",
+    "experience": "Experience",
+    "role": "Role",
+    "location": "Location",
+    "english": "English Level"
+  },
+  "experience": {
+    "title": "Commercial Experience",
+    "subtitle": "Key milestones across high-load fintech, edtech, and web3 systems",
+    "responsibilities": "Key Responsibilities",
+    "achievements": "Proven Achievements",
+    "techStack": "Tech Stack"
+  },
+  "stack": {
+    "title": "Technical Arsenal",
+    "subtitle": "Technologies, frameworks, and tools battle-tested in commercial production",
+    "all": "All Technologies"
+  },
+  "contact": {
+    "title": "Initiate Contact",
+    "subtitle": "Looking for a battle-tested Senior Full-Stack Engineer? Send a direct message or connect via Telegram.",
+    "directTelegram": "Direct Telegram Message",
+    "instantChat": "Message on Telegram",
+    "telegramHandle": "@Artem_schevchenko",
+    "emailLabel": "Email",
+    "phoneLabel": "Phone",
+    "name": "Your Name / Organization",
+    "email": "Email or Telegram Handle",
+    "message": "Project brief, scope, or job opportunity...",
+    "send": "Send via Telegram",
+    "copyTg": "Copy Telegram",
+    "copied": "Copied!"
+  },
+  "footer": {
+    "copyright": "Artem Schevchenko © 2026. All rights reserved.",
+    "engineering": "Senior Full-Stack Engineer • Kyiv, Ukraine"
+  }
+}

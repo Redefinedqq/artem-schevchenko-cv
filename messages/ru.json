@@ -1,0 +1,61 @@
+{
+  "nav": {
+    "about": "О себе",
+    "experience": "Опыт и проекты",
+    "stack": "Стек",
+    "contact": "Контакты",
+    "cvDownload": "Скачать CV"
+  },
+  "hero": {
+    "badge": "Senior Full-Stack Engineer • 6+ лет коммерческого опыта",
+    "titleFirst": "Артём",
+    "titleLast": "Шевченко",
+    "subtitle": "Разработка высоконагруженных веб-сервисов, распределённых систем и платёжной инфраструктуры. Специализация на экосистеме TypeScript (React, Next.js, Node.js/NestJS), оптимизации баз данных и скоростной frontend-архитектуре.",
+    "ctaContact": "Обсудить проект / Оффер",
+    "ctaCv": "Скачать резюме (PDF)",
+    "statExp": "6+ лет в продакшене",
+    "statWeb3": "Fintech & Web3 шлюзы",
+    "statScale": "Масштаб 150+ стран",
+    "statSpeed": "Core Web Vitals эксперт"
+  },
+  "about": {
+    "title": "Профиль и опыт",
+    "lead": "Senior Full-Stack разработчик с 6+ годами реального опыта в коммерческих проектах.",
+    "text": "Подтверждённый трек-рекорд в разработке надёжных fintech-интеграций (Stripe, TON, Revolut), оптимизации инфраструктурных затрат и максимальном разгоне Core Web Vitals. Глубокое понимание чистой архитектуры (FSD), микросервисов и автоматизированного CI/CD.",
+    "experience": "Опыт",
+    "role": "Позиция",
+    "location": "Локация",
+    "english": "Уровень английского"
+  },
+  "experience": {
+    "title": "Коммерческий опыт",
+    "subtitle": "Ключевые вехи в разработке fintech, edtech и web3 инфраструктуры",
+    "responsibilities": "Обязанности",
+    "achievements": "Достижения",
+    "techStack": "Стек технологий"
+  },
+  "stack": {
+    "title": "Технологический стек",
+    "subtitle": "Инструменты, библиотеки и инфраструктура, проверенные в продакшене",
+    "all": "Все технологии"
+  },
+  "contact": {
+    "title": "Связаться",
+    "subtitle": "Ищете надёжного Senior Full-Stack разработчика? Напишите напрямую в Telegram или отправьте заявку.",
+    "directTelegram": "Прямая связь в Telegram",
+    "instantChat": "Написать в Telegram",
+    "telegramHandle": "@Artem_schevchenko",
+    "emailLabel": "Эл. почта",
+    "phoneLabel": "Телефон",
+    "name": "Ваше имя / Компания",
+    "email": "Telegram или почта для ответа",
+    "message": "Кратко о проекте или вакансии...",
+    "send": "Отправить в Telegram",
+    "copyTg": "Скопировать TG",
+    "copied": "Скопировано!"
+  },
+  "footer": {
+    "copyright": "Артём Шевченко © 2026. Все права защищены.",
+    "engineering": "Senior Full-Stack Engineer • Украина"
+  }
+}
